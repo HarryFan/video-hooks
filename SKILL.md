@@ -1,15 +1,21 @@
 ---
 name: video-hooks
 description: |
-  短影音 Hook 靈感庫 — 從 transitionalhooks.com 瀏覽、搜尋、挑選開場 Hook 素材。
+  短影音 Hook 靈感庫 — 多來源彙整（視覺素材庫 + 文字公式庫），幫你找開場 Hook 素材或文字腳本。
   依分類（搞笑/動物/跌倒/反應/驚喜/打架/水/濺水）或情境（「我要拍XX主題」）推薦 Hook，
   說明如何改編用在自媒體影片，並提供下載/靈感連結。
-  觸發詞：「hook」「鉤子」「開場」「短影音素材」「transitional hook」「吸引眼球」「捲軸停止」「怎麼開頭」「片頭」「intro hook」「影片素材」「TikTok 開場」「Reels 開場」
+  觸發詞：「hook」「鉤子」「開場」「短影音素材」「transitional hook」「吸引眼球」「捲軸停止」「怎麼開頭」「片頭」「intro hook」「影片素材」「TikTok 開場」「Reels 開場」「hook 網站」「hook 素材庫」
 metadata:
   type: framework
   author: harry
   project: 自媒體短影音
-  source: https://transitionalhooks.com/
+  sources:
+    - https://transitionalhooks.com/
+    - https://videohooks.app/
+    - https://viralhooks.org/
+    - https://thetransitionalhooks.com/
+    - https://www.goviralhooks.com/library
+    - https://videohooks.art/
 ---
 
 # Video Hooks · 短影音開場 Hook 靈感 Skill
@@ -137,12 +143,9 @@ metadata:
 看素材：https://transitionalhooks.com/social-media-video-hook-library/
 ```
 
-### Step 3：提供連結
+### Step 3：提供連結（依需求選來源）
 
-- **完整庫**：https://transitionalhooks.com/social-media-video-hook-library/
-- **最新 Hook**：同上（頁面頂部有 "Latest Viral Hooks" 區塊）
-- **抽取自己影片的 Hook**：https://transitionalhooks.com/extract-a-hook/
-- **Blog 靈感**：https://transitionalhooks.com/blog/
+依用戶需求推薦最適合的來源（見下方完整來源清單）。
 
 ---
 
@@ -209,5 +212,47 @@ Hook 只是「門」，門後的第一句話決定留存率。
 
 ---
 
-> 素材來源：https://transitionalhooks.com/
-> 使用方式：網站提供免費下載，下載後用影片編輯軟體剪入自己的影片開頭。
+---
+
+## 完整來源清單
+
+### A. 視覺素材庫（下載影片 Clip 用）
+
+| 站點 | 素材量 | 特色 | 連結 |
+|------|--------|------|------|
+| **transitionalhooks.com** | 60+ | 分類清晰（Animal/Funny/Fall/Reaction/Surprise/Fighting/Water），有 Inspiration 說明 + Extract a Hook 工具 | https://transitionalhooks.com/social-media-video-hook-library/ |
+| **videohooks.app** | 60+ | 可搜尋、Random 隨機推薦，介面乾淨 | https://videohooks.app/ |
+| **viralhooks.org** | 每日更新 | 強調每日新增，適合找最新流行素材 | https://viralhooks.org/ |
+| **thetransitionalhooks.com** | 500+ | 最大庫，每週 25 支新增，內建 Kite AI 工具，適合廣告/電商用途 | https://thetransitionalhooks.com/ |
+| **goviralhooks.com** | 大量 | 依風格/情緒分類，一鍵下載，CapCut/Premiere/DaVinci 相容 | https://www.goviralhooks.com/library |
+| **videohooks.art** | 80+ | .mp4 直接下載，依主題（旅遊/生活/美容）分類，有靈感範例 | https://videohooks.art/ |
+| **clickretina.com** | 精選 | 人工精選，強調品質 | https://clickretina.com/viral-video-transitional-hooks/ |
+| **memes.co.in** | 不限 | 版權自由，也有 meme 類素材 | https://memes.co.in/transitional-hooks |
+| **aiseo.ai** | AI生成 | 輸入主題 AI 生成 hook 腳本，非影片素材 | https://aiseo.ai/tools/transitional-hooks |
+
+**選哪個？**
+- 要找具體影片素材 → transitionalhooks.com / videohooks.art（分類最清楚）
+- 要找最新流行 → viralhooks.org（每日更新）
+- 要大量廣告用途 → thetransitionalhooks.com（500+ 最大）
+- 要隨機靈感 → videohooks.app（有 Random 鍵）
+
+---
+
+### B. 文字 Hook 公式庫（寫腳本用）
+
+| 站點 | 內容 | 連結 |
+|------|------|------|
+| **TikTok Visual Hooks Library** | TikTok 官方整理的視覺 hook 類型 | https://www.tiktok.com/discover/visual-hooks-library |
+| **submagic.co** | 75 個 TikTok hook 公式，可複製貼上 | https://www.submagic.co/blog/best-hooks-for-tiktok-and-instagram |
+| **sendshort.ai** | 80+ hook 公式，涵蓋 TikTok & Reels | https://sendshort.ai/guides/tiktok-instagram-hooks/ |
+| **metricool.com** | 25 個高效 hook 公式，有分析說明 | https://metricool.com/viral-video-hooks/ |
+| **vexub.com** | 25 個公式 + 認知心理學觸發機制解析 | https://vexub.com/blog/viral-short-form-video-hooks |
+
+**何時用文字庫？**
+- 有自己的開場畫面，需要第一句話腳本 → sendshort.ai / submagic.co
+- 想理解 hook 心理學原理 → vexub.com
+- 想看平台官方怎麼定義 hook → TikTok Visual Hooks Library
+
+---
+
+> 所有素材站均提供免費下載，下載後用 CapCut / Premiere / Final Cut / DaVinci 剪入影片開頭。
